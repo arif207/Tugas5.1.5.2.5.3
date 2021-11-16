@@ -1,0 +1,29 @@
+.row {
+   width: 1000px;
+   height: 500px;
+   margin: auto;
+}
+
+.colom {
+    border: 1px solid black;
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin-left: 40px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.merah {
+    background-color: red;
+}
+
+.hijau {
+    background-color: green;
+}
+
+.biru {
+    background-color: blue;
+}
